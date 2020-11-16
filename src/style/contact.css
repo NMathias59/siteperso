@@ -1,0 +1,21 @@
+#contact {
+    background: white;
+}
+
+#contact h2 {
+    padding: 2px;
+    color: #282c34;
+    font-size: 30px;
+}
+
+.contact-form label {
+    color: #999;
+}
+
+.contact-form input, .contact-form textarea {
+    padding: 10px 12px;
+    border-radius: 0;
+    box-shadow: none;
+    font-size: 14px;
+    height: auto;
+}

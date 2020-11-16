@@ -1,0 +1,44 @@
+#g {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background: #f5f5f5;
+}
+
+.card-project{
+    padding: 5px;
+}
+.card-project h5{
+    color: lightsteelblue;
+}
+
+.all-card{
+    margin: auto;
+    padding: 10px;
+}
+
+#f {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: grey;
+}
+
+.clients img {
+    max-width: 140px;
+    max-height: 60px;
+    vertical-align: middle;
+}
+
+.clients .col-sm-2 {
+    height: 80px;
+    line-height: 80px;
+    position: relative;
+    margin: auto;
+}
+.work{
+    text-align: center;
+}
+
+.work h2{
+    text-align: center;
+    color: #282c34;
+}
