@@ -6,28 +6,34 @@ const Description = () => {
         <div>
             <div className="container ptb">
                 <div className="row">
-                    <h2 className="centered mb col-md-12">Concepteur et developpeur de site internet <br/>pour reppondre
-                        au besoin demander
+                    <h2 className="centered mb col-md-12"><br/>
                     </h2>
-                    <div className="col-md-6">
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-                            been the industry's standard dummy text ever since the 1500s, when an unknown printer took a
-                            galley of type and scrambled it to make a type specimen book.</p>
-                    </div>
-                    <div className="col-md-6">
-                        <p>It has survived not only five centuries, but also the leap into electronic typesetting,
-                            remaining essentially unchanged. It was popularised in the 1960s with the release of
-                            Letraset sheets containing Lorem Ipsum passages, and more recently with
-                            desktop publishing software.</p>
+                    <div className="col">
+                        <p>Développeur Web, je maitrise PHP ainsi que le framework REACT. Je suis à la recherche d'une
+                            entreprise dans laquelle je pourrais exercer mes compétences tout en continuant à progresser
+                            sur les technologies d'avant garde. Autonome et rigoureux, je m'intégrerais rapidement à vos
+                            équipes.</p>
                     </div>
                 </div>
             </div>
+
             <div className="container">
-                <div className="row">
-                    <div className="col-sm-12 col-md-offset-1">
-                        <img src="https://www.iesamultimedia.fr/sites/default/files/definition_developpement_web.jpg"
-                             className="img-responsive" alt=""/>
+                <div className="row clients centered">
+                    <div className="col-sm-6 col-sm-offset-1">
+                        <a href="https://drive.google.com/file/d/13ZG0mt2bsIJ4cz6acsXFgrWTkFPVrOVS/view?usp=sharing">
+                            <img
+                                src="https://cdn3.iconfinder.com/data/icons/business-people-part-2-1/64/resume-256.png"/>
+                        </a>
+                        <p>cv</p>
                     </div>
+                    <div className="col-sm-6 ">
+                        <a href="https://www.linkedin.com/in/mathias-nieuwjaer/">
+                            <img
+                                src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png"/>
+                        </a>
+                        <p>linkedin</p>
+                    </div>
+
                 </div>
             </div>
         </div>

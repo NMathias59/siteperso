@@ -6,9 +6,9 @@ const Project = () => {
         <div id="g">
             <div className="container card-project">
                 <div className="row-12 work">
-                    <h2>Dernier projet realiser</h2>
+                    <h2>Derniers projets realisés</h2>
                     <div className="row-12 col-md-offset-2">
-                        <p>Voici les dernier travaux que j'ai realiser</p>
+                        <p>Voici les derniers travaux que j'ai realisés</p>
                         <div className="row all-card">
                             <div className="card col-sm-4 card-project">
                                 <img
@@ -16,9 +16,9 @@ const Project = () => {
                                     className="card-img-top" alt="..."/>
                                 <div className="card-body">
                                     <h5 className="card-title">Projet 3</h5>
-                                    <p className="card-text">single-page-application de reservation de velo</p>
-                                    <a href="https://github.com/NMathias59/projet-3-oc.git"
-                                       className="btn btn-primary">consulter</a>
+                                    <p className="card-text">single-page-application de réservations de vélos</p>
+                                    <a href="https://nmathias59.github.io/PROJET_3_DWJ_OC/"
+                                       className="btn btn-primary"></a>
                                 </div>
                             </div>
                             <div className="card col-sm-4 card-project">
@@ -27,7 +27,7 @@ const Project = () => {
                                     className="card-img-top" alt="..."/>
                                 <div className="card-body">
                                     <h5 className="card-title">Projet 4</h5>
-                                    <p className="card-text">creation d'un blog simple en php sur architecture MVC</p>
+                                    <p className="card-text">création d'un blog simple en php basé sur une architecture MVC</p>
                                     <a href="https://github.com/NMathias59/projet-4-oc.git"
                                        className="btn btn-primary">consulter</a>
                                 </div>
@@ -38,7 +38,7 @@ const Project = () => {
                                     className="card-img-top" alt="..."/>
                                 <div className="card-body">
                                     <h5 className="card-title">Projet 5</h5>
-                                    <p className="card-text">Web App utilisan API Plateform et React en framework </p>
+                                    <p className="card-text">Web App utilisant API Plateform et React en framework </p>
                                     <a href="https://github.com/NMathias59/projet-5-oc.git"
                                        className="btn btn-primary">consulter</a>
                                 </div>
