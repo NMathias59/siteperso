@@ -9,7 +9,7 @@ const Description = () => {
                     <h2 className="centered mb col-md-12"><br/>
                     </h2>
                     <div className="col">
-                        <p>Développeur web; je maîtrise PHP sur du back-end(symphonie, pattern MBC, programmation objet, API plateforme..) ainsi que REACT & REDUX.
+                        <p>Développeur web; je maîtrise PHP sur du back-end(symphonie, API plateforme, NodeJs..) ainsi que REACT & REDUX.
 Actuellement en recherche d'emploi, je recherche une entreprise où je pourrais déverser le meilleur de mes compétences tout en intégrant un process et des équipes. Autonome, rigoureux et enthousiaste, j'ai à coeur de m'intégrer à vos équipes et à vos process.</p>
                     </div>
                 </div>

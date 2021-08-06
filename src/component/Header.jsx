@@ -5,7 +5,7 @@ const Header = () => {
     return (
         <div id="hader">
 
-            <nav class="navbar navbar-expand-lg navbar-light bg-light sm-2">
+            <nav class="navbar navbar-expand-lg navbar-light bg-light ">
             <div class="collapse navbar-collapse" id="navbarText">
                 <ul class="navbar-nav mr-auto">
                 <li class="nav-item active">
