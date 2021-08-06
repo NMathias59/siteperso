@@ -12,6 +12,8 @@
     background-size: cover;
     background-position: center;
 }
-.clients{
-    padding: 16px;
+
+.row clients centered{
+    padding: 0;
 }
+

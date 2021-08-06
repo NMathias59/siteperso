@@ -3,7 +3,25 @@ import '../style/header.css'
 
 const Header = () => {
     return (
-        <div id="h">
+        <div id="hader">
+
+            <nav class="navbar navbar-expand-lg navbar-light bg-light sm-2">
+            <div class="collapse navbar-collapse" id="navbarText">
+                <ul class="navbar-nav mr-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" href='#description'>Description <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#languages">Languages</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#contact">Me contacter</a>
+                </li>
+                </ul>
+            </div>
+            </nav>
+            
+
             <div className="container centered img_background">
                 <div className="row">
                     <div className="col col-md-offset-2 profil">

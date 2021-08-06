@@ -20,7 +20,7 @@ const Contact = () => {
 
     const sendEmail = (e)=> {
         e.preventDefault();
-        emailjs.sendForm('service_fs6nzt7', 'template_9kmmtie', e.target, 'user_90HPLdkl9udbubEiowKof')
+        emailjs.sendForm('service_p55zv4i', 'template_9kmmtie', e.target, 'user_90HPLdkl9udbubEiowKof')
             .then((result) => {
                 console.log(result.text);
                 window.alert("email envoyer")

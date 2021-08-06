@@ -18,7 +18,7 @@ const Project = () => {
                                     <h5 className="card-title">Projet 3</h5>
                                     <p className="card-text">single-page-application de réservations de vélos</p>
                                     <a href="https://nmathias59.github.io/PROJET_3_DWJ_OC/"
-                                       className="btn btn-primary"></a>
+                                       className="btn btn-primary">consulter</a>
                                 </div>
                             </div>
                             <div className="card col-sm-4 card-project">
